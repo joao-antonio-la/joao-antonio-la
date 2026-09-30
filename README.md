@@ -1,10 +1,10 @@
 # Olá, eu sou o João 👋
 
-🎓 Estudante de **Engenharia de Software**
-💻 Desenvolvedor interessado em **Full Stack, Backend e desenvolvimento de software**
-🐍 Python · C · C++ · Java · JavaScript · TypeScript
-🌐 React · Flask · FastAPI · SQLAlchemy
-🛠️ Git · GitHub · GitHub Actions
+🎓 Estudante de **Engenharia de Software**  
+💻 Desenvolvedor interessado em **Full Stack, Backend e desenvolvimento de software**  
+🐍 Python · C · C++ · Java · JavaScript · TypeScript  
+🌐 React · Flask · FastAPI · SQLAlchemy  
+🛠️ Git · GitHub · GitHub Actions  
 
 ## 🚀 Projetos
 
